@@ -3,7 +3,7 @@
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/>
 
 >
->I'm a Full Stack Developer who aims to improve himself every day and keep up with the new technologies. I have been working in the industry for 2 years, and I'm passionate about building websites and finding creative web solutions. I also have experience in CRM & CMS projects. Besides programming, I enjoy listening to Rock & Metal music, watching live streams and playing video games.
+>I'm a Full Stack Web Developer who aims to improve himself every day and keep up with the new technologies. I have been working in the industry for 2 years, and I'm passionate about building websites and finding creative web solutions. I also have experience in CRM & CMS projects. Besides programming, I enjoy listening to Rock & Metal music, watching live streams and playing video games.
 
 ### 💻 Professional Skills
 
