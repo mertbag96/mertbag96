@@ -1,6 +1,5 @@
 # Hi, I'm Mert 👋
 
-Full stack developer based in Ankara, Turkey, working mostly with **Laravel**, PHP and Vue.
+Software developer building web applications with **Laravel**, PHP, React and Vue. I use AI heavily in my workflow, from planning and coding to reviewing, to ship faster without giving up on clean, maintainable code.
 
-- 🧩 [laravel-domain-migrator](https://github.com/mertbag96/laravel-domain-migrator): moves a Laravel MVC app toward a modular, domain-oriented structure
-- 📄 [vuejs-docs-tr](https://github.com/mertbag96/vuejs-docs-tr): Turkish translation of the Vue 3 docs
+[LinkedIn](https://www.linkedin.com/in/mertbag/) · [X](https://x.com/mertbag96) · [dev-null.sh](https://dev-null.sh/@mertbag96)
